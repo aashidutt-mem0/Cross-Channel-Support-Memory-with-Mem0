@@ -107,8 +107,3 @@ python test_walkthrough.py
 
 Each endpoint can infer the customer email from the message text. Internally, that email is passed to Mem0 as `user_id`, which keeps memory shared across all channels.
 
-## Notes
-
-- `.env` is ignored by git because it contains secrets.
-- `.venv` is ignored by git because it is local environment state.
-- If Streamlit is already running after code changes, stop it and restart it.
