@@ -1,0 +1,7 @@
+fastapi
+mem0ai
+openai
+uvicorn
+httpx
+python-dotenv
+streamlit
